@@ -10,7 +10,7 @@ def argue(argv)
   "#{argv}"
 end
 
-def greeting
+def greeting(greeting, name)
 
 end
 
